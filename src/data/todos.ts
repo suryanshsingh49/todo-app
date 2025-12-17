@@ -13,7 +13,7 @@ export const dummyData: Todo[] = [
     },
     {
         id: 3,
-        title: "Leave a nice comment",
+        title: "Leave a nice comment!",
         completed: false,
     },
 ];
